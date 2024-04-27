@@ -1,4 +1,4 @@
-<h1 align="center" id="title">Roboflow Example Website Object Detection</h1>
+<h1 align="center" id="title">Roboflow Example Object Detection on Website</h1>
 
 <p align="center"><img src="https://socialify.git.ci/volumeee/object-detection-roboflow/image?language=1&amp;name=1&amp;owner=1&amp;stargazers=1&amp;theme=Light" alt="project-image"></p>
 
